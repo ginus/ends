@@ -1,0 +1,17 @@
+{
+  "name": "ends",
+  "version": "1.0.0",
+  "description": "ends such as tcpserver tcpclient dcp com, used fot connent to device",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tcpsever",
+    "tcpclient",
+    "dcp",
+    "com"
+  ],
+  "author": "ginus",
+  "license": "ISC"
+}
